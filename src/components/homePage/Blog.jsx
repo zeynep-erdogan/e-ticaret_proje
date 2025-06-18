@@ -2,7 +2,7 @@ import { Clock3, ChartArea, Star } from 'lucide-react';
 
 const blogData = [
   {
-    imgURL: '/public/images/blog1.png',
+    imgURL: '/images/blog1.png',
     headerblue: 'English Department',
     header: 'Graphic Design',
     paragraph: ` We focus on ergonomics and meeting you where you work. It's only keystroke away.`,
@@ -12,7 +12,7 @@ const blogData = [
       'https://appmaster.io/tr/blog/javascript-dinamik-web-icerigi',
   },
   {
-    imgURL: '/public/images/blog2.png',
+    imgURL: '/images/blog2.png',
     headerblue: 'English Department',
     header: 'Graphic Design',
     paragraph: ` We focus on ergonomics and meeting you where you work. It's only keystroke away.`,
